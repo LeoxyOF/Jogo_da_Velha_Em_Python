@@ -1,3 +1,5 @@
+# Feito por Leoxy (https://github.com/LeoxyOF)
+
 lista_de_numeros = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 o = x = 0
 
